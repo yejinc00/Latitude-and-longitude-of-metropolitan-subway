@@ -1,5 +1,5 @@
 # Latitude-and-longitude-of-metropolitan-subway
-수도권 지하철역 각각의 위도 및 경도를 엑셀에 저장~
+수도권 지하철역 각각의 위도 및 경도를  엑셀에 저장~
 
 input data : 서울교통공사 공공데이터개방 부분에서 아래 url의 엑셀 파일 (2020-11-10기준)
 
