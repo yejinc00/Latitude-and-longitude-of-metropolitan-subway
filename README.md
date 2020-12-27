@@ -2,6 +2,7 @@
 수도권 지하철역 각각의 위도 및 경도를 엑셀에 저장~
 
 input data : 서울교통공사 공공데이터개방 부분에서 아래 url의 엑셀 파일 (2020-11-10기준)
+
 http://www.seoulmetro.co.kr/kr/board.do?menuIdx=551&bbsIdx=2210979
 
 issue: 역 이름 형태가 인식불가 또는 동명의 역이 존재할 경우 값이 None 또는 쌩뚱맞은 위치의 역 정보가 가져와질 수 있음
